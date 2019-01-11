@@ -1,0 +1,25 @@
+{
+    "name": "leaves.module",
+    "version": "1.0.0",
+    "description": "Embeddable Module for Leaves",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/appleseed/leaves.module.git"
+    },
+    "keywords": [
+      "search",
+      "leaves",
+      "appleseed"
+    ],
+    "author": "Rahul Singh",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/appleseed/leaves.lite/issues"
+    },
+    "homepage": "https://github.com/appleseed/leaves.lite#readme"
+  }
+  
