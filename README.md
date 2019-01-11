@@ -1,2 +1,4 @@
-# leaves.module
-Old leaves.topic (angularjs) that is easy to embed in static.html w/ static.json anywhere. 
+
+#Appleseed Leaves.Topic#
+
+Will be a "nice looking" view of a particular tag / topic that looks more like a news paper / dynamic page than a listing / grid view.
