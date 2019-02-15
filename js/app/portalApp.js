@@ -14,7 +14,7 @@ app.run(function($rootScope) {
 
 app.controller('DocCtrl', function($scope, $rootScope, $http, $location) {
 
-    $scope.base_url = 'https://dev.leaves.anant.us/wb/'
+    $scope.base_url = 'https://dev.leaves.anant.us/wb'
     $rootScope.listArray = []
     $rootScope.tempArray = []
     $rootScope.leaves = []
